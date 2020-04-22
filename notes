@@ -1,0 +1,6 @@
+so i made the 2 forms and the code wont accept the params for some reason/ i didnt write the code it was already given to us 
+
+im not really sure why its breaking i messed up at first and ran the wrong command on 
+db:create_migration NAME=(i used capital letters but it only accept lowercase and _ and numbers) in any case i deleted the file and remade it correctly
+
+than ran db:migrate and saw the migrations/ made the forms but than it wouldnt register the params on the terminal i used puts as suggested in the lab / in any case i will ask teacher tomorrow what she thinks ! 
